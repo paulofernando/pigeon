@@ -10,7 +10,7 @@ public class GameView extends View {
 
     public GameView(Context context, AttributeSet attrs) {
         super(context, attrs);
-        requestFocus();
+        requestFocus(); 
 
     }
 
